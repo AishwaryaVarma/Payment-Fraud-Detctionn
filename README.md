@@ -1,10 +1,6 @@
 # Payment-Fraud-Detctionn
 Credit-Card Fraud Detection using Binary Classification
-
-
-
-Detecting Payment Card Fraud
-Build a binary classification model that can identify transactions as either fraudulent or valid, based on provided, historical data. In a 2016 study, it was estimated that credit card fraud was responsible for over 20 billion dollars in loss, worldwide. Accurately detecting cases of fraud is an ongoing area of research.
+To build a binary classification model that can identify transactions as either fraudulent or valid, based on provided, historical data. In a 2016 study, it was estimated that credit card fraud was responsible for over 20 billion dollars in loss, worldwide. Accurately detecting cases of fraud is an ongoing area of research.
 
 <img src=notebook_ims/fraud_detection.png width=50% />
 
